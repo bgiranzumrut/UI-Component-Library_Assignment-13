@@ -15,6 +15,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "prettier --write . && eslint . --fix && npm test"
+
     }
   },
   "keywords": [],
