@@ -5,7 +5,7 @@ import { ButtonProps } from "./Button.types";
 const StyledButton = styled.button<ButtonProps>`
   background-color: blue;
   color: white;
-  padding: 12px 24px;
+  padding: 10px 24px;
   font-size: 16px;
   border: none;
   cursor: pointer;
